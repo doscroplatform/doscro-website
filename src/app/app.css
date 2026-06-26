@@ -19,6 +19,7 @@
   box-sizing: border-box;
   font-family: Inter, Segoe UI, Arial, sans-serif;
 }
+
 .badge {
   padding: 8px 16px;
   border-radius: 999px;
@@ -47,7 +48,6 @@ h1 {
 
 .description {
   max-width: 650px;
-  margin-top: 40px;
   font-size: 1.15rem;
   line-height: 1.9;
   color: #94a3b8;
