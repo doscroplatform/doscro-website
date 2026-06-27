@@ -6,12 +6,11 @@ body {
   min-height: 100%;
   overflow-x: hidden;
   background: linear-gradient(
-    180deg,
-    #3f51b5 0%,
-    #3647a8 45%,
-    #2f3f98 100%
+    135deg,
+    #2563eb 0%,
+    #3b82f6 45%,
+    #4f46e5 100%
   );
-
   color: #ffffff;
   font-family: Inter, "Segoe UI", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
